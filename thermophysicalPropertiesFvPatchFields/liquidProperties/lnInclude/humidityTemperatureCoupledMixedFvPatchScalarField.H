@@ -1,0 +1,1 @@
+../humidityTemperatureCoupledMixed/humidityTemperatureCoupledMixedFvPatchScalarField.H
